@@ -8,7 +8,7 @@
 ```
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
- ![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/dennis/Pictures/rust-1.png?version%3D1677040281411)
+ ![Alt text](rust-1.png)
 
 ```
 rustup target add wasm32-unknown-unknown
